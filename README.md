@@ -17,3 +17,10 @@ If you are using the data provided here or the [NCorg DNC](https://github.com/Ne
   month     = {August},
 }
 ```
+
+# Copyright
+Contributions by Alexander Scheffler are subject to the following copyright:  
+*Copyright (C) 2021+ Ruhr-Universität Bochum, Alexander Scheffler*
+
+Contributions by Steffen Bondorf are subject to the following copyright:  
+*Copyright (C) 2021+ Ruhr-Universität Bochum, Steffen Bondorf*
